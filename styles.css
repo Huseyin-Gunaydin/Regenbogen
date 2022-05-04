@@ -1,0 +1,43 @@
+body {
+  margin: auto;
+}
+.color1 {
+  width: 100%;
+  height: 10vh;
+  background-color: red;
+}
+.color2 {
+  width: 100%;
+  height: 10vh;
+  background-color: chocolate;
+}
+.color3 {
+  width: 100%;
+  height: 10vh;
+  background-color: gold;
+}
+.color4 {
+  width: 100%;
+  height: 10vh;
+  background-color: green;
+}
+.color5 {
+  width: 100%;
+  height: 10vh;
+  background-color: darkturquoise;
+}
+.color6 {
+  width: 100%;
+  height: 10vh;
+  background-color: blue;
+}
+.color7 {
+  width: 100%;
+  height: 10vh;
+  background-color: indianred;
+}
+.color8 {
+  width: 100%;
+  height: 10vh;
+  background-color: fuchsia;
+}
